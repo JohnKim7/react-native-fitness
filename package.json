@@ -1,0 +1,76 @@
+{
+  "_args": [
+    [
+      "git+https://github.com/JohnKim7/react-native-fitness.git",
+      "/Users/john/Desktop/you2_mobile"
+    ]
+  ],
+  "_from": "git+https://github.com/JohnKim7/react-native-fitness.git",
+  "_id": "react-native-fitness@git+https://github.com/JohnKim7/react-native-fitness.git#2ddcb18d01fafdff1ab23c8306053d2841b71345",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-fitness",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/JohnKim7/react-native-fitness.git",
+    "rawSpec": "git+https://github.com/JohnKim7/react-native-fitness.git",
+    "saveSpec": "git+https://github.com/JohnKim7/react-native-fitness.git",
+    "fetchSpec": "https://github.com/JohnKim7/react-native-fitness.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/JohnKim7/react-native-fitness.git#2ddcb18d01fafdff1ab23c8306053d2841b71345",
+  "_spec": "git+https://github.com/JohnKim7/react-native-fitness.git",
+  "_where": "/Users/john/Desktop/you2_mobile",
+  "author": {
+    "name": "Oval Money"
+  },
+  "bugs": {
+    "url": "https://github.com/OvalMoney/react-native-fitness/issues"
+  },
+  "contributors": [
+    {
+      "name": "Francesco Voto",
+      "email": "fv@ovalmoney.com"
+    },
+    {
+      "name": "Andrea Pacino",
+      "email": "ap@ovalmoney.com"
+    },
+    {
+      "name": "Stefano Cerelli",
+      "email": "stefano.cerelli@ovalmoney.com"
+    },
+    {
+      "name": "Alessio Occhipinti",
+      "email": "alessio.occhipinti@ovalmoney.com"
+    }
+  ],
+  "description": "A React Native package that gives you access to Apple kit and Google Fit data.",
+  "files": [
+    "/android",
+    "!/android/build",
+    "/ios",
+    "/js",
+    "/*.podspec"
+  ],
+  "homepage": "https://github.com/OvalMoney/react-native-fitness",
+  "keywords": [
+    "react",
+    "native",
+    "react-native",
+    "health-kit",
+    "google-fit",
+    "fitness"
+  ],
+  "license": "MIT",
+  "main": "./js/index.js",
+  "name": "react-native-fitness",
+  "peerDependencies": {
+    "react-native": ">=0.41.2"
+  },
+  "version": "0.2.4"
+}
